@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="login2:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/login2_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="login2/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="login2" />
+          <element id="dir-copy" path="H:/相关包/apache-tomcat-9.0.29" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="H:/相关包/dom4j-2.1.1.jar" />
+          <element id="file-copy" path="H:/相关包/xpath的jar包/jaxen-1.1-beta-7.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users> 
+  <user> 
+    <username>zhu</username>  
+    <password>123456</password>  
+    <price> 
+      <per>99</per>  
+      <per>51</per>  
+      <per>45</per>  
+      <per>28</per>  
+      <per>90</per>  
+      <per>456</per>  
+      <per>80</per>  
+      <per>90</per>  
+      <per>60</per>  
+      <per>78</per> 
+    </price> 
+  </user>  
+  <user> 
+    <username>风雨无阻</username>  
+    <password>1893403508</password>  
+    <price> 
+      <per>28</per>  
+      <per>50</per>  
+      <per>89</per>  
+      <per>100</per>
+    </price> 
+  </user> 
+</users>
